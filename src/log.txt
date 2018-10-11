@@ -1,0 +1,8 @@
+-----ELToD v4.0 (c) 2018-----
+Start time : 10-11-2018 14:37:38
+Read node file. Total of 4584 zones.
+Read link file. Total of 51972 links.
+Number of decision node 130.
+Number of threads 2.
+
+Iteration = 1
